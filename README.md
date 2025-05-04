@@ -1,2 +1,2 @@
 # RSI-Trading-Bot-
-Relative Strength Index BOT
+Relative Strength Index BOT using python
